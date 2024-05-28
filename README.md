@@ -1,2 +1,2 @@
-# Candy-Crush-8088
+# Candy-Crush-8086
 This repository includes a popular game known as Candy Crush. This game was made in Assembly-8086 as Final Project of Computer Organization & Assembly Language. Having 3 level, all of which have different board styles. 4 types of candies and a bomb which work same as in original candy crush game. There are some glitches in the game when run but the game runs as intended otherwise. A bit of an issue on file handeling part which code is at the end. If you happen to find this code and wish to use it for yourself, I suggest you start with upadating score for each level and then moving towards file handeling. THIS CODE ONLY RUNS ON DOS-BOX(MASM).
